@@ -1,8 +1,7 @@
 
 ---
-
-## **📌 Contoh README.md untuk Front-end (Flutter)**  
-📂 **Repositori: `resep-app-flutter`**  
+ 
+📂 **Repositori: `apk-resep-flutter`**  
 
 ```md
 # 🍲 Resep App - Flutter
@@ -23,7 +22,7 @@ Pastikan kamu sudah menginstal:
 - HTTP package (untuk request API)
 
 ## 🚀 Instalasi & Menjalankan Aplikasi
-1. Clone repository ini:
+  Clone repository ini:
    ```bash
-   git clone https://github.com/username/resep-app-flutter.git
-   cd resep-app-flutter
+   git clone https://github.com/ferdi-alf/apk-resep-flutter.git
+ 
